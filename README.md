@@ -26,13 +26,16 @@
 
 ### Проекты
 
+* 👨‍💻 [**Compile Hub**](https://github.com/EDeev/compile-hub) - сервер для online IDE с поддержкой множества яыков программирования
 * 🤖 [**NPR MeteoBot**](https://github.com/EDeev/npr_meteobot) – автоматизированная система мониторинга погоды для Норильского промышленного района
 * 🎓 [**МосПолиХелпер**](https://github.com/EDeev/mospoly-helper) – навигационная система для кампусов МосПолитеха с видео-маршрутами
 * 🤖 [**ABOBOT**](https://github.com/EDeev/chatping_abobot) – многофункциональный Telegram-бот для управления группами (17.3K+ пользователей)
 * 🍽️ [**School Menu Bot**](https://github.com/EDeev/school_menu) – автоматизация системы школьного питания
 * 🔄 [**VK to Telegram Reposter**](https://github.com/EDeev/vkrepost_to_tg) – автоматизированная система репостинга контента
-* 🗓️ [**Y.Calendarkin**](https://github.com/EDeev/y.calendarkin) – Telegram-бот для уведомлений из Яндекс.Календаря
-* 🎥 [**Circlechek**](https://github.com/EDeev/circlechek) – Telegram-бот для преобразования видео в кружочки
+* 🗓️ [**Y.Calendarkin**](https://github.com/EDeev/y.calendarkin) – telegram-бот для уведомлений из Яндекс.Календаря
+* 🎥 [**Circlechek**](https://github.com/EDeev/circlechek) – telegram-бот для преобразования видео в кружочки
+* 📄 [**My Converterbot**](https://github.com/EDeev/my_converterbot) - telegram-бот для преобразования Markdown в DOCX и анализа структуры директории
+* 🔔 [**Dorm Alarm**](https://github.com/EDeev/dorm_alarm) - telegram-бот для мониторинга сервера
 
 ### Технологии
 
