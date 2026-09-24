@@ -3,16 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Python+%26+Django+Developer;Moving+Toward+ML+Engineering;Automation+Enthusiast;System+Architect;Always+learning+new+things&center=true&size=25"/>
-</p>
-
-<p align="center">
   <a href="https://t.me/DeevEgor"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://deev.space"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:egor@deev.space"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
-<br />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/EDeev/EDeev/output/github-contribution-grid-snake.svg" alt="snake"/>
