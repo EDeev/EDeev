@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <b>Python Backend-разработчик</b> · LLM-агенты и MCP · инфраструктура и DevOps
+</p>
+
+<p align="center">
   <a href="https://t.me/DeevEgor"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://deev.space"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:egor@deev.space"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -15,22 +19,39 @@
 # Мои Проекты
 
 <details>
-<summary>🐍 Backend & Systems Development</summary>
+<summary>🤖 LLM-агенты и MCP</summary>
 
 ### Проекты
 
-* [**Compile Hub**](https://github.com/EDeev/compile-hub) - сервер для online IDE с поддержкой множества яыков программирования
-* [**Mospolytech MCP**](https://github.com/EDeev/mospolytech-mcp) – MCP-сервер для доступа LLM-ассистентов к открытому расписанию и личному кабинету МосПолитеха
-* [**API Processor**](https://github.com/EDeev/api_processor) – Django REST API для обработки аудио и документов с gRPC интеграцией
-* [**NPR MeteoBot**](https://github.com/EDeev/npr_meteobot) – автоматизированная система мониторинга погоды для Норильского промышленного района
-* [**МосПолиХелпер**](https://github.com/EDeev/mospoly-helper) – навигационная система для кампусов МосПолитеха с видео-маршрутами
-* [**ABOBOT**](https://github.com/EDeev/chatping_abobot) – многофункциональный Telegram-бот для управления группами (17.3K+ пользователей)
-* [**School Menu Bot**](https://github.com/EDeev/school_menu) – автоматизация системы школьного питания
-* [**VK to Telegram Reposter**](https://github.com/EDeev/vkrepost_to_tg) – автоматизированная система репостинга контента
-* [**Y.Calendarkin**](https://github.com/EDeev/y.calendarkin) – telegram-бот для уведомлений из Яндекс.Календаря
-* [**Circlechek**](https://github.com/EDeev/circlechek) – telegram-бот для преобразования видео в кружочки
-* [**My Converterbot**](https://github.com/EDeev/my_converterbot) - telegram-бот для преобразования Markdown в DOCX и анализа структуры директории
-* [**Dorm Alarm**](https://github.com/EDeev/dorm_alarm) - telegram-бот для мониторинга сервера
+* [**Mospolytech MCP**](https://github.com/EDeev/mospolytech-mcp) – MCP-сервер, дающий LLM-ассистентам доступ к открытому расписанию и личному кабинету МосПолитеха (командный проект)
+* **Davi** – персональный ИИ-агент в Telegram и MAX на PydanticAI: 6 собственных MCP-серверов, долговременная память и векторный поиск на PostgreSQL/pgvector, LLM-судьи качества ответов и действий с инфраструктурой ([davi.deev.su](https://davi.deev.su), код закрыт)
+* [**Declaude**](https://github.com/EDeev/declaude) – экспорт чатов и проектов Claude.ai в статический HTML-архив, пакет [`claude-export-html`](https://pypi.org/project/claude-export-html/) на PyPI
+
+### Технологии
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+</p>
+
+</details>
+
+<details>
+<summary>🐍 Backend и Telegram-боты</summary>
+
+### Проекты
+
+* [**ABOBOT**](https://github.com/EDeev/chatping_abobot) – Telegram-бот для групповых чатов: упоминания по имени, в том числе в голосовых (17K+ пользователей)
+* [**API Processor**](https://github.com/EDeev/api_processor) – Django REST API: распознавание речи (Vosk), разбор PDF/DOCX, gRPC-сервис
+* [**Converterbot**](https://github.com/EDeev/converterbot) – Markdown → DOCX по ГОСТ 7.32-2017: пакет [`md2gost`](https://pypi.org/project/md2gost/) на PyPI и Telegram-бот
+* [**Compile Hub**](https://github.com/EDeev/compile-hub) – асинхронный бэкенд online IDE с компиляцией C++, Python и JavaScript (командный проект)
+* [**Y.Calendarkin**](https://github.com/EDeev/y.calendarkin) – Telegram-бот уведомлений о событиях Яндекс.Календаря
+* [**Circlechek**](https://github.com/EDeev/circlechek) – Telegram-бот: видео → кружочек и кружочек → видео
+* [**VK to Telegram Reposter**](https://github.com/EDeev/vkrepost_to_tg) – пересылка новых постов из ВКонтакте в Telegram
 
 ### Технологии
 
@@ -42,31 +63,32 @@
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 </details>
 
 <details>
-<summary>🖥️ Desktop Applications</summary>
+<summary>🛠️ Инфраструктура и DevOps</summary>
 
 ### Проекты
 
-* [**School Table**](https://github.com/EDeev/school_table) – многофункциональное приложение для управления школьным расписанием
-* [**Student Sorter**](https://github.com/EDeev/student_sorter) – система автоматизированной обработки студенческих заявлений
-* [**Mobile Devices Database**](https://github.com/EDeev/mobiles_dataset) – комплексная система управления каталогом мобильных устройств
-
+* **Homelab** – парк из 5 серверов (Москва, Санкт-Петербург, Амстердам, Прага, домашний): мониторинг Prometheus с алертами в Telegram, self-hosted Git на Forgejo с пакетами и релизами, автоматические бэкапы со всех узлов, VPN, почтовый сервер; статьи об этом — в [блоге](https://deev.space/blog/)
+* [**AlertBot**](https://github.com/EDeev/alertbot) – Telegram-бот мониторинга парка серверов: алерты Alertmanager, сводки по серверам, сервисам и TLS-сертификатам
 
 ### Технологии
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/RSREU.IO-FF6B35?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forgejo-FB923C?style=for-the-badge&logo=forgejo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 </details>
@@ -76,11 +98,10 @@
 
 ### Проекты
 
-* [**deev.space**](https://github.com/EDeev/deev.space) – личный веб-сайт с портфолио и блогом
-* [**Tablo**](https://github.com/EDeev/tablo) – веб-приложение для учебного расписания с распознаванием из фото через ИИ и трекерами успеваемости
-* [**Web-разработка**](https://github.com/EDeev/web-dev) – лабораторные и домашние задания по курсу "Веб-разработка" в МосПолитехе
-* [**Основы веб-технологий**](https://github.com/EDeev/web-tech) – лабораторные работы по дисциплине "Основы веб-технологий"
-* [**Yandex Lyceum Projects**](https://github.com/EDeev/yandex_lyceum) – коллекция веб-приложений из образовательной программы
+* [**deev.space**](https://github.com/EDeev/deev.space) – личный сайт-портфолио на Django с проектами и блогом
+* [**Tablo**](https://github.com/EDeev/tablo) – веб-приложение для студентов: расписание по фото с помощью ИИ, трекеры успеваемости и общий доступ
+* **Портфолио визажиста** – коммерческий сайт на FastAPI с собственной админ-панелью и SEO из панели, 1000+ посещений в месяц ([dragileva.ru](https://dragileva.ru))
+* **fe0.ru** – портал из 15+ онлайн-утилит на FastAPI: TTY-чат, эмулятор Cisco IOS, транскрибация аудио, веб-версия Declaude ([fe0.ru](https://fe0.ru))
 
 ### Технологии
 
@@ -89,13 +110,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yandex%20Maps-FF0000?style=for-the-badge&logo=yandex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 </details>
@@ -105,7 +123,7 @@
 
 ### Проект
 
-* [**Pixel Gamble**](https://github.com/EDeev/pixel_gamble) – полнофункциональная 2D action-RPG игра на Pygame
+* [**Pixel Gamble**](https://github.com/EDeev/pixel_gamble) – 2D action-RPG на Pygame с системой боя, ИИ противников и динамической камерой
 
 ### Технологии
 
@@ -116,41 +134,91 @@
 
 </details>
 
+<details>
+<summary>🎓 Учебные и ранние проекты (в архиве)</summary>
+
+### Московский Политех
+
+* [**Quizlab**](https://github.com/EDeev/quizlab) – REST API викторин на DRF → Docker (nginx, Caddy) → Qt-клиент с Singleton и Adapter
+* [**Mobile Devices Database**](https://github.com/EDeev/mobiles_dataset) – курсовая по базам данных: датасет смартфонов в PostgreSQL (3НФ) и приложение на PyQt6
+* [**МосПолиХелпер**](https://github.com/EDeev/mospoly-helper) – Telegram-бот с видео-маршрутами по корпусам Политеха (командная проектная практика)
+* [**Web-разработка**](https://github.com/EDeev/web-dev) – лабораторные на Flask и экзаменационное приложение — электронная библиотека
+* [**Основы веб-технологий**](https://github.com/EDeev/web-tech) – лабораторные: от первой HTML-страницы до сервиса доставки ланчей
+* [**WorldLang**](https://github.com/EDeev/worldlang) – экзамен: сайт онлайн-школы иностранных языков на учебном API
+
+### РГРТУ, Яндекс Лицей и школа
+
+* [**Student Sorter**](https://github.com/EDeev/student_sorter) – приложение на C++/CLI и Windows Forms: список абитуриентов с сортировкой и диаграммами
+* [**Yandex Lyceum Projects**](https://github.com/EDeev/yandex_lyceum) – веб-приложения на Flask из курса Яндекс Лицея
+* [**School Table**](https://github.com/EDeev/school_table) – дневник школьника на PyQt5: расписание и заметки
+* [**NPR MeteoBot**](https://github.com/EDeev/npr_meteobot) – школьный Telegram-бот актировок и погоды для Норильска
+* [**School Menu Bot**](https://github.com/EDeev/school_menu) – школьный Telegram-бот столовой: меню и заказ обедов
+
+### Технологии
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+</details>
+
 # Обо мне
 
 <details>
 <summary>Достижения</summary>
 
-- **2 место** в международном конкурсе научно-практических работ
-- **17K+ пользователей** активных пользователей в Telegram-ботах
-- **Руководитель команды разработки** в МосПолитехе по проектам "EasyAccess" и "Национального офисного пакета"
-- Разработка **навигационной системы** для 50,000+ студентов МосПолитеха
+- **2 место** в международном конкурсе научно-практических работ (Крымский федеральный университет) — веб-интерфейс для пользователей с особыми возможностями здоровья в системе 1С
+- **17K+ пользователей** у Telegram-бота [ABOBOT](https://github.com/EDeev/chatping_abobot)
+- **2 пакета на PyPI** — [`md2gost`](https://pypi.org/project/md2gost/) и [`claude-export-html`](https://pypi.org/project/claude-export-html/)
+- **Руководство командами разработки** в МосПолитехе — группы до 7 человек, code review
+- **Блог** о DevOps и инфраструктуре — 3 статьи, 8 700+ просмотров: [deev.space/blog](https://deev.space/blog/)
 
 </details>
 
 <details>
   <summary>Опыт</summary>
 
-### **Руководитель команды разработки** | МосПолитех | 2024 - настоящее время
-- Руководство разработкой Python/Django решений для веб-доступности EasyAccess
-- Управление командой по разработки офисного пакета на базе Apache OpenOffice
-- Архитектура API, работа с PostgreSQL, настройка Docker
-- Тимлид группы разработки NowHere — работа над ИИ-ассистентом
+### **Ведущий разработчик** | NowHere (МосПолитех) | 05.2026 - настоящее время
+- Встраиваемое ПО голосового ИИ-устройства Aimee на Raspberry Pi Zero 2 W: захват и потоковая передача четырёхканального аудио
+- Перенос сервиса ChopCheck (разделение счетов, 500+ пользователей) с Telegram на MAX
+- Руковожу группой из 5 человек, провожу code review
 
-### **Backend Developer** | Freelance | 2020 - 2022
-- Разработал высоконагруженные Telegram-боты (17K+ пользователей)
-- Создавал enterprise-решения с gRPC и микросервисной архитектурой
-- Автоматизировал бизнес-процессы и парсинг данных
+### **Разработчик системы сборки, руководитель команды** | АзОфис (МосПолитех) | 05.2025 - 06.2026
+- Офисный пакет на основе Apache OpenOffice: сборка из исходников на Windows, установщики MSI, доработка функций
+- Руководил командой из 6 человек
+
+### **Backend-разработчик, руководитель серверной части** | EasyAccess (МосПолитех) | 09.2024 - 06.2025
+- REST API на Django и PostgreSQL для расширения веб-доступности
+- Контейнеризация на Docker: развёртывание окружения сократилось с ~2 часов до ~15 минут
+- Руководил группой из 7 человек
+
+### **Разработчик** | Частные проекты | 2022 - 2024
+- Telegram-боты, парсинг сайтов, обработка видео: Y.Calendarkin, NPR MeteoBot, Circlechek
 </details>
 
 <details>
-  <summary>Увлечения</summary>
+  <summary>Образование</summary>
 
+- **Московский Политех** — Системная и программная инженерия, 3 курс (2024 - настоящее время)
+- **РГРТУ** — Фундаментальная информатика и информационные технологии (2022 - 2024)
+- **Яндекс Лицей** — Python (2020 - 2022)
+
+</details>
+
+<details>
+<summary>Увлечения</summary>
+
+- LLM-агенты и инструменты для них
+- Инфраструктура и отказоустойчивые распределённые системы
 - OpenSource-разработка
-- Инфраструктурные и продуктовые задачи нагруженных систем
-- Отказоустойчивые распределённые системы
 - Автоматизация процессов
-- Обучение нейросетей и алгоритмы машинного обучения
 - API и микросервисы
 - Прогнозирование событий на основе данных: сбор и интерпретация
 
