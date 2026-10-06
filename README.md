@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Python Backend-разработчик</b> · LLM-агенты и MCP · инфраструктура и DevOps
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=620&height=45&lines=Python+Backend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;LLM-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%8B+%D0%B8+MCP;%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0+%D0%B8+DevOps" alt="Python Backend-разработчик · LLM-агенты и MCP · Инфраструктура и DevOps"/>
 </p>
 
 <p align="center">

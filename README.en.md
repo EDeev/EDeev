@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Python Backend Developer</b> · LLM agents and MCP · infrastructure and DevOps
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=620&height=45&lines=Python+Backend+Developer;LLM+agents+and+MCP;Infrastructure+and+DevOps" alt="Python Backend Developer · LLM agents and MCP · Infrastructure and DevOps"/>
 </p>
 
 <p align="center">
