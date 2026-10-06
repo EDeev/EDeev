@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/EDeev">Русский</a> · <b>English</b>
+  <a href="https://github.com/EDeev">Русский</a> · <b>English</b> · <a href="https://github.com/EDeev/EDeev/blob/main/README.zh.md">中文</a>
 </p>
 
 <p align="center">
